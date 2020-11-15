@@ -1,3 +1,5 @@
+// This is about darkmode.
+
 let text = document.querySelector('.Counter');
 let button = document.querySelector('.Darkmode');
 let body = document.querySelector('body');

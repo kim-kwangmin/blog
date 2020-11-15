@@ -1,3 +1,5 @@
+// This is about counter
+
 let counter = document.querySelector('.Counter');
 let minusbutton = document.querySelector('.Minus');
 let plusbutton = document.querySelector('.Plus');
